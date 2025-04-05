@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # === CONFIG ===
-APPKEY="ISI_APPKEY_MU"
+APPKEY="juamecmb8HS9JsWP"
 FOLDER="$HOME/packetsdk_docker"
 CONTAINER_NAME="packetsdk_container"
 SDK_ZIP_URL="https://github.com/gunturyogatama404/testAJA/raw/refs/heads/main/packet_sdk_linux-1.0.2.zip"
